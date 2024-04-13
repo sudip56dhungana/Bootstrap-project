@@ -1,0 +1,28 @@
+.custom-background{
+background-color: aqua !important ;
+}
+.custom-carousel{
+    height:400px !important ;
+}
+.custom-card
+{
+    height: 200px !important;
+}
+.product-image{
+    height: 300px;
+    transition: all 3s;
+}
+.card-height{
+    width: 300px;
+}
+.zoom:hover img{
+    transform: scale(1.3);
+}
+.image{
+    overflow: hidden;
+    
+}
+.custom-cart{
+    height: 100px;
+    /* width: 100px; */
+}
